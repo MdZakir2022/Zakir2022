@@ -1,2 +1,6 @@
-Hi my name is hasan 
-Learning how to write in git
+Hi my name is hasan insert mode 
+This is my git hub with the vim text editprdiihahad 
+
+new line adding
+
+second line is adding 
