@@ -1,1 +1,2 @@
- hi this is my vim
+ Hi this is my vim
+Making the changes by the vim
